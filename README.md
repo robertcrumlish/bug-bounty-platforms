@@ -65,3 +65,4 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | SHERLOCK | ❓ | [@sherlockdefi](https://twitter.com/sherlockdefi) | ✅ | 📣 | ✅ | https://app.sherlock.xyz/audits/leaderboard | https://app.sherlock.xyz/audits/contests |
 | The Saloon | ❓ | [@saloonfinance](https://twitter.com/saloonfinance) | ✅ | 📣 | ✅ | ❓ | https://saloon.finance/bounties |
 | Teklabspace | Nigeria | [@teklabspace](https://x.com/teklabspace?t=nYn04e6-GNB-974F9gCZfg&s=09) | ✅ | 📣 | ✅ | https://app.teklabspace.com/leaders-board/ | https://app.teklabspace.com/program/ |
+| Global Media Services | UK | N/A | ✅ | 🤫 + 📣 | ✅ | ❌ | https://global.com/bug-bounty-policy/ |
